@@ -21,9 +21,31 @@
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Создание презентация через кодинг
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - Практики использования Django
 - [skyrim-multiplayer/skymp](https://github.com/skyrim-multiplayer/skymp) - Основной код SkyMP
-- 
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Вопросы по программированию
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - Коллекция различных фишек, охватывающих все
 - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - Коллекция статей/книг по программированию
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - Книги/подкасты/скринкасты/... по программированию
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap для web-developer
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Библиотека ImGUI для разработки интерфейса на графическом движке
+- [ryobg/sse-imgui](https://github.com/ryobg/sse-imgui) - ImGUI адаптированная в Skyrim
+- [jayanam/jgl_demos](https://github.com/jayanam/jgl_demos) - Некоторый код по ImGUI, есть на youtube видео (см. описание автора)
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki, программа с карточками для запоминания
+- [operasoftware/operachromiumdriver](https://github.com/operasoftware/operachromiumdriver) - Драйвер для браузера Opera
+- [dmytrostriletskyi/DuttyBot](https://github.com/dmytrostriletskyi/DuttyBot) - Простой телеграм бот на python
+- [fastlane/fastlane](https://github.com/fastlane/fastlane) - Использовался для автоматизации сборки приложения на flutter
+- [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - Удобная библиотека для Telegram ботов на python
+- [roughike/inKino](https://github.com/roughike/inKino) - Пример приложнеия на Flutter
+- [surfstudio/SurfGear](https://github.com/surfstudio/SurfGear) - SurfGear, загатовки для разработки на flutter
+- [felangel/bloc](https://github.com/felangel/bloc) - Архитектура BLoC на Flutter
+- [Virer2013/Learn_Flutter](https://github.com/Virer2013/Learn_Flutter) - Гайд по Flutter
+- [KeenSoftwareHouse/SpaceEngineers](https://github.com/KeenSoftwareHouse/SpaceEngineers) - Исходный код SpaceEngineers
+- [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - Библиотеки, инструменты и др. под Flutter
+- [malware-dev/MDK-SE](https://github.com/malware-dev/MDK-SE) - Основа для проекта под SpaceEngineers
+- [GnuriaN/Python-Roadmap](https://github.com/GnuriaN/Python-Roadmap) - RoadMap для Python
+- [miguelgazela/Projects](https://github.com/miguelgazela/Projects) - Задачи/алгоритмы на Python
+- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - Вопросы по программированию (конкретным языкам/технологиям)
+- [/ossu/computer-science](https://github.com/ossu/computer-science) - RoadMap (Open Source Society University) по информатики
+- [jofpin/trape](https://github.com/jofpin/trape) - Инструмент для отслеживания
+- [pyimgui/pyimgui](https://github.com/pyimgui/pyimgui) - PyImGUI реализованный на Cython
+- [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Удобная и простая библиотека для ImGUI на Python
+- [GnuriaN/Python-Roadmap](https://github.com/GnuriaN/Python-Roadmap) - RoadMap для Python
